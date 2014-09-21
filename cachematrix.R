@@ -4,7 +4,7 @@
 #for use instead of calculting it all over again, but will calculate the inverse if it has not been calculated before.
 
 
-#makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse
+# makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse
 
 ## 1. define a matrix via set(). In order to compute an inverse of a matrix
 ## one should make sure that matrix is square and not singular.
